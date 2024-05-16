@@ -1,4 +1,4 @@
-package singletons;
+package creational_patterns.singletons;
 
 public class EagerInitializationSingleton {
     private static final EagerInitializationSingleton instance = new EagerInitializationSingleton();
